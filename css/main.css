@@ -1,0 +1,13 @@
+/* Main CSS document */
+
+body {
+	background-color: lightgray;
+}
+
+.content {
+	background-color: gray;
+}
+
+#headline {
+	text-align: center;
+}

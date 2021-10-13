@@ -1,7 +1,11 @@
 /* Main CSS document */
 
 body {
-	background-color: lightgray;
+	background: radial-gradient(circle, rgba(195,34,91,1) 45%, rgba(253,163,45,1) 100%);
+}
+
+nav {
+	background: #6610f2;
 }
 
 .content {
